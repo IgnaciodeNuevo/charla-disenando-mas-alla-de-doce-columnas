@@ -3,6 +3,20 @@
 ## Fecha: (pendiente)
 ## Título: (pendiente)
 
+## Ideas:
+
+* Ejemplo básico con FR
+* Grid Gap
+* Grid Areas
+* Implícito vs Explícito
+* grid-auto-flow: dense
+* CSS Grid vs Flexbox
+* minmax
+* [auto-fill vs auto-fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+* ...
+
+## Recursos:
+
 * [Isometric eCommerce CSS Grid](https://codepen.io/andybarefoot/pen/PBPrex/)
 * [Grid Experiments](https://codepen.io/collection/DapBxW/2/#)
 * [CSS Grid Posters](https://codepen.io/collection/nryRgw/#)
