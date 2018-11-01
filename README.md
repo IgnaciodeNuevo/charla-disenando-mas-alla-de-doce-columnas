@@ -13,7 +13,8 @@
 
 * ¿Qué preguntas surgen cuando se habla de CSS Grid Layout?
 * ¿Qué problemas tneéis para usarlo?
-* Encuesta/Pregunta Twitter
+* [Encuesta/Pregunta Twitter](https://twitter.com/IgnaciodeNuevo/status/1057978678657904640)
+  + [1. ](https://twitter.com/edfriasji/status/1057992396577951744)
 
 ## Ideas:
 
