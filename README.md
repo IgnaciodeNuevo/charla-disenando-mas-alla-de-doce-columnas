@@ -3,6 +3,12 @@
 ## Fecha: (pendiente)
 ## Título: (pendiente)
 
+## Slides tools:
+
+* [Web Slides](https://webslides.tv/#slide=1)
+* [Reveal.js](https://revealjs.com/#/)
+* [Slides.com](https://slides.com/)
+
 ## Ideas:
 
 * Ejemplo básico con FR
