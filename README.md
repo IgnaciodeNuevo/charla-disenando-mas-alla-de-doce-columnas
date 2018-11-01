@@ -9,6 +9,12 @@
 * [Reveal.js](https://revealjs.com/#/)
 * [Slides.com](https://slides.com/)
 
+## Preguntas:
+
+* ¿Qué preguntas surgen cuando se habla de CSS Grid Layout?
+* ¿Qué problemas tneéis para usarlo?
+* Encuesta/Pregunta Twitter
+
 ## Ideas:
 
 * Ejemplo básico con FR
