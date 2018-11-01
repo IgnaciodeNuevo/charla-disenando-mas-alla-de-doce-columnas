@@ -13,7 +13,8 @@
 * CSS Grid vs Flexbox
 * minmax
 * [auto-fill vs auto-fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
-* ...
+* [Soporte IE: @supports (grid-gap: 1rem) {}](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/) 
+* [Grid Bugs](https://github.com/rachelandrew/gridbugs)
 
 ## Recursos:
 
