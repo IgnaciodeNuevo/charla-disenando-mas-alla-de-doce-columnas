@@ -15,6 +15,7 @@
 * ¿Qué problemas tneéis para usarlo?
 * [Encuesta/Pregunta Twitter](https://twitter.com/IgnaciodeNuevo/status/1057978678657904640)
   + [1. ](https://twitter.com/edfriasji/status/1057992396577951744)
+  + [2. ](https://twitter.com/MartaTorreAjo/status/1058003218217779200)
 
 ## Ideas:
 
