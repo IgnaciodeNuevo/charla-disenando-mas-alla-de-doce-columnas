@@ -40,3 +40,8 @@
 * [Here's a Super Quick Way to Try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
 * [GridtoFlex](https://www.gridtoflex.com/)
 * [Labs Jen Simmons](https://labs.jensimmons.com/)
+
+## Ponented:
+
+* [Paqui Calabria](https://github.com/FCalabria)
+* [Ignacio Villanueva](https://github.com/IgnaciodeNuevo/)
