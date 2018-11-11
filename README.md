@@ -44,6 +44,7 @@
 * [Here's a Super Quick Way to Try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid)
 * [GridtoFlex](https://www.gridtoflex.com/)
 * [Labs Jen Simmons](https://labs.jensimmons.com/)
+* [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 
 ## Ponented:
 
