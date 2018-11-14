@@ -33,6 +33,7 @@
 * [Grid Bugs](https://github.com/rachelandrew/gridbugs)
 * Ver que ejemplos no tienen soporte para navegadores antiguos
 * [subgrid](https://platform-status.mozilla.org/#css-subgrids)
+* [Best practices grid layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)
 
 ## Recursos:
 
