@@ -1,7 +1,8 @@
 # Charla: Diseñando más allá de las doce columanas
 
 ## Fecha: (pendiente)
-## Título: (pendiente)
+## Título: Diseñando más allá de las doce columanas
+
 
 ## Descripción
 
@@ -55,7 +56,7 @@ En esta charla veremos que puede aportar CSS Grid Layout, el nuevo estándar de 
 * [Labs Jen Simmons](https://labs.jensimmons.com/)
 * [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 
-## Ponented:
+## Ponentes:
 
 * [Paqui Calabria](https://github.com/FCalabria)
 * [Ignacio Villanueva](https://github.com/IgnaciodeNuevo/)
