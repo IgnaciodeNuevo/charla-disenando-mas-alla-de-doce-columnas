@@ -3,6 +3,14 @@
 ## Fecha: (pendiente)
 ## Título: (pendiente)
 
+## Descripción
+
+Todos sabemos que la web es un medio cambiante, donde día a día nos tenemos que adaptar a las novedades y quien no se adapta se queda atrás. Dicho esto hará apenas un año que ha salido un nuevo estándar web que cambia la manera de trabajar. Hasta hace bien poco todo eran "trucos" para que los diseños funcionasen correctamente, por suerte a partir de ahora nada volverá a ser lo mismo y este nuevo estándar facilitaremos el día a día en de diseñadores y desarrolladores.
+
+Cada vez que hablamos de trabajo en equipo pensamos en diseñadores y desarrolladores mano a mano trabajando juntos pero no siempre es así, en muchos de los casos diseño termina un trabajo y desarrollo lo implementa. Esto podría cambiar radicalmente a partir de ahora.
+
+En esta charla veremos que puede aportar CSS Grid Layout, el nuevo estándar de desarrollo (orientándolo a diseño) para que los diseños sean más efectivos, avanzados y fáciles de llevar a cabo siempre que sea necesario. Intentaremos aportar tanto a diseño como a desarrollo las ventajas de usar CSS Grid Layout en lugar de los tan manidos diseños basados en 12 columnas. ¿Queremos hacer diseños basados en 3 columnas? ¡Ahora se puede sin los problemas que teníamos antes!
+
 ## Slides tools:
 
 * [Web Slides](https://webslides.tv/#slide=1)
